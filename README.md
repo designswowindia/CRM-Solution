@@ -313,8 +313,11 @@ This project is open-source. See the [LICENSE](LICENSE) file for details.
 
 Developed with ❤️ as a native PHP project — proving you don't need a heavy framework to build a complete, production-ready business application.
 
-Author: Akhilesh Maurya
-Company : https://designswow.com
+Author: 
+Akhilesh Maurya
+
+Company : 
+https://designswow.com
 
 Download Link : 
 https://drive.google.com/file/d/13YDVpq2Ty1U9UVqXiHNN0NXsBz5IWIhB/view?usp=sharing
